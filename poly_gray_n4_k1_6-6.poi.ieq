@@ -1,0 +1,13 @@
+DIM = 4
+
+VALID
+0 1 0 1 
+
+INEQUALITIES_SECTION
+(  1) -x1          == 0
+(  2)       -x3    == 0
+(  3)    +x2   -x4 == 0
+(  4)          +x4 == 1
+
+
+END
